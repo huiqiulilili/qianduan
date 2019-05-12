@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <p id="demo"></p>
+    <script>
+        // var s = new Array();
+        // s[0] = "a";
+        // s[1] = "b";
+        // s[2] = "c";
+        // for(i = 0; i<s.length; i++){
+        //     document.write(i+"<br>");
+        // }
+
+
+        // var s = {
+        //     first : "h",
+        //     last : "n",
+        //     id : 1
+        // };
+        // document.write(s.first + "<br>");
+        // document.write(s["last"] + "<br>");
+
+
+        // var ren={
+        //     name : "张三",
+        //     sex : "男",
+        //     };
+        //     document.getElementById("demo").innerHTML = ren.name + "是" + ren.sex;
+
+
+        function s(){
+            alert("hahaha,没想到吧");
+
+        }
+        
+
+
+
+
+
+
+    </script>
+    <button onclick="s()">点击</button>
+</body>
+</html>
