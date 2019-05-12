@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+		
+			<tr>
+				<td>hh</td>
+				<td>yy</td>
+				<td>ww</td>
+			</tr>
+			<tr>
+				<td>hh</td>
+				<td>yy</td>
+				<td>ww</td>
+			</tr>
+			<tr>
+				<td>hh</td>
+				<td>yy</td>
+				<td>ww</td>
+			</tr>
+
+		</table>
+		<script>
+			// var passwd = prompt("请输入");
+            // {/* if(passwd !== 123){
+            //     document.body.innerHTML= "";
+            // } */}
+            // if(passwd != 123){
+            //     document.body.innerHTML="你输入的错误";
+            // }
+        
+
+		</script>	
+        <img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2735633715,2749454924&fm=27&gp=0.jpg" alt="">
+</body>
+</html>
