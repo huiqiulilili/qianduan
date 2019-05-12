@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        {/* var date = window.prompt('inpute');
+        switch(date){
+        
+            case "1":
+            case "2":
+            case "3":
+            case "4":
+            case "5":
+               console.log('working');
+               break;
+            case "6":  
+            case "7": 
+                console.log('relaxing'); 
+                break;
+         } */}
+        {/* var arr = [1,2,3,4,5];
+        for(var i = 0;i<arr.length;i ++){
+            arr[i]++;
+        } */}
+
+        {/* var deng = {
+            name : "hui",
+            age :18,
+
+        }
+        console.log(deng.name);
+        deng.age = 15;
+        console.log(deng.age);
+     */}
+
+     {/* var num = undefined;
+     console.log(typeof(num)); */}
+
+     var num = Number('123');
+
+     console.log(typeof(num)+ ":" +num); 
+    </script>
+</body>
+</html>
