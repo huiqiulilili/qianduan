@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        body{
+            /* background-color: green; */
+            font-size: 0.5cm;
+          background-image: url("https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2735633715,2749454924&fm=27&gp=0.jpg");
+
+        }
+        h1{
+            background-color: black;
+
+        }
+        img{
+            width: 300px;
+        }
+        a{
+            text-decoration: none;
+            color: red;
+        }
+        p{
+            text-align:left;
+            
+        }
+        td{
+            border:1px solid black;
+        }
+        
+    </style>
+    <!-- <link rel="stylesheet" href="main.css"> -->
+</head>
+<body>
+    <!-- <h1>一级</h1>
+    <h2 style="text-align:center;border:3px solid black;width: 100px;margin: auto auto">二级</h2>
+    <h3>三级</h3>
+    <h4>四级</h4> -->
+    <!-- <h6>六级</h6>
+    <p>wawa</p>
+    <a href="http://www.baidu.com">百度</a>
+    <img src="http://www.pptbz.com/pptpic/UploadFiles_6909/201203/2012031220134655.jpg" alt="">
+    <audio src="" controls =""></audio><br>
+    <video style="width:100%" src="http://my.tv.sohu.com/us/263520789/82564235.shtml" controls="">你的浏览器不支持</video> -->
+    <table>
+        <tr>
+            <td>1,1</td>
+            <td>1,2</td>
+
+        </tr>
+        <tr>
+            <td>2,1</td>
+            <td>2,2</td>
+        </tr>
+    </table>
+    <form action="">
+       <p>用户名<input type="text"></p>
+       <textarea name="" id="" cols="30" rows="10"></textarea>
+       <p>密码<input type="password"></p>
+       <p><input type="submit" value="biu"></p>
+       <select name="" id="">
+           <option value="">第一项</option>
+           <option value="">第二项</option>
+       </select>
+       <ol>
+           <li>第一项</li>
+           <li>第二项</li>
+           <li>第三项</li>
+       </ol>
+       <ul>
+        <li>第一项</li>
+        <li>第二项</li>
+        <li>第三项</li>
+       </ul>
+    </form>
+    <iframe style="width:100%"src="http://www.baidu.com" frameborder="0"></iframe>
+    <button onclick='if(confirm("删除吗")) {document.body.innerHTML=" "}'>删除所有</button>
+</body>
+</html>
