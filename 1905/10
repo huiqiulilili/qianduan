@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <p onclick="changeC()">点击时间</p>
+    <script>
+        setInterval(changeC,1000)
+    function changeC(){
+        var color= ['red','blue','yellow','rgb(0,0,225)'];
+        var i = parseInt( Math.random()*3);
+        document.body.style.background = color[i];
+    }
+    
+    </script>
+</body>
+</html>
