@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="alert('haha')">点击我</button>
+    <a href="javascript:alert('haha')">niganma</a>
+    <button onclick="alert('你还真点呀')">点击我</button>
+    <script>
+    var obj = new Object();
+    // console.log(obj);
+    obj.name = "小米";
+    obj.sex="女";
+    obj.height = 18;
+    console.log(obj);
+    </script>
+
+</body>
+</html>
