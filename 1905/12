@@ -1,0 +1,94 @@
+<meta charset=UTF8>
+<?php 
+
+// echo "hello",'<br/>';
+// $age=22;
+// echo $age;
+
+// $isman = true;
+// $iswomen  = false;
+// echo $isman,$iswomen,'<br/>';
+// var_dump($isman);
+// var_dump($iswomen);
+// echo "<br>";
+// print_r($isman);
+// print_r($iswomen);
+
+// $age;
+// var_dump($age);
+// $age1 = null;
+// var_dump($age1);
+// $age2 = 22;
+// unset($age2);
+// var_dump(age);
+
+// $who = $_GET['who'];
+// $laoda = '刘备';
+// $laoer = '张飞';
+// $laosan = '关羽';
+// echo $$who;
+
+
+// $age = 22;
+// unset($age);
+// if($age){
+// 	echo $age;
+// }else{
+// 	echo "不纯在";
+// }
+// if(isset($age)){
+// 	echo $age,"纯在";
+// }else{
+// 	echo "不存在";
+// }
+
+// $age = 1;
+// $str = "哈哈";
+// echo gettype($age);
+// echo gettype($str);	
+// $a = 10;
+// $b = 20;
+// $a = $b;
+// echo $a;
+// echo "<br>";
+// unset($b);
+// echo $a;
+// unset($a);
+// echo $a;//错误
+// $a = &$b;
+// unset($b);
+// echo $a;
+// echo "$b";
+
+// $str1 = "hello";
+// $str2 = "world";
+// $str3 = $str1 . $str2;
+// echo $str3,'<br>';
+// echo "$str1 $str2";
+// echo '<br>';
+// echo $str1.$str2,'<br>';
+// $a = 1;
+// $b = 2;
+// if($a != 2 && $b++)
+// {
+// 	echo $a,$b;
+// }else{
+// 	echo $a,$b;
+// }
+
+// $a = 1;
+// $b = 2;
+// if($a = 2||$b++)
+// {
+// 	echo $a,$b;
+// }
+//异或
+// $a = "男";
+// $b = "女";
+// if($a == "男" xor $b == "男"){
+// echo "可以结婚";
+// }else{
+// 	echo "再等等";
+// }
+
+ ?>
