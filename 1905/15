@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>document.getElementById</title>
+</head>
+<body>
+<p id="con">JavaScript</p>
+<script type="text/javascript">
+  var x = document.getElementById("con");
+  x.innerHTML="哈哈";
+  document.write(x);
+</script>
+</body>
+</html>
