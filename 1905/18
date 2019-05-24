@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>博雅互动</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="header">
+        <div class="var">
+            <p class="pic">
+                <a href="#"><img src="img/by.png" alt=""></a> 
+            </p>
+            <ul class="var_c">
+                <li class="var_l var_1"><a href="#">首页</a></li>
+                <li class="var_l var_2"><a href="#">博雅游戏</a></li>
+                <li class="var_l var_3"><a href="#">博雅新闻</a></li>
+                <li class="var_l var_4"><a href="#">关于我们</a></li>
+                <li class="var_l var_5"><a href="#">客服中心</a></li>
+                <li class="var_l var_6"><a href="#">投资者关系</a></li>
+                <li class=" var_7"><a href="#">加入我们</a></li>
+            </ul>
+            <div class="var_r">
+                <div class="c"><a href="#">中文</a></div>
+                <div class="e"><a href="#">EN</a></div>
+            </div>
+           
+           
+         </div>
+    </div>
+    <div class="clear"></div>
+    <div class="banner"></div>
+   <div class="conten inner_c">
+       <div class="product">
+           <ul>
+               <li>
+                   <p>
+                       <img src="img/4.jpg" alt="">
+                   </p>
+                   <h3>小标题</h3>
+                   <p class="play">
+                       <a href="#">点击播放</a>
+                   </p>
+               </li>
+               <li>
+                <p>
+                    <img src="img/4.jpg" alt="">
+                </p>
+                <h3>小标题</h3>
+                <p  class="play">
+                    <a href="#">点击播放</a>
+                </p>
+               </li>
+               <li>
+                <p>
+                    <img src="img/4.jpg" alt="">
+                </p>
+                <h3>小标题</h3>
+                <p  class="play">
+                    <a href="#">点击播放</a>
+                </p>
+               </li>
+               <li class="last">
+                <p>
+                    <img src="img/4.jpg" alt="">
+                </p>
+                <h3>小标题</h3>
+                <p  class="play">
+                    <a href="#">点击播放</a>
+                </p>
+               </li>
+           </ul>
+       </div>
+   </div>
+   <div class="inner_c1">
+       <div class="info">
+           <div class="bynews">
+               <ul>
+                   <li>
+                       
+                       <a href="#">
+                           2015博雅分布变化忍辱
+                       </a>
+                       <span>09/28</span>
+                      
+                   </li>
+                   <li>
+                       
+                        <a href="#">
+                            2015博雅分布变化忍辱
+                        </a>
+                        <span>09/28</span>
+                       
+                    </li>
+                    <li>
+                       
+                            <a href="#">
+                                2015博雅分布变化忍辱
+                            </a>
+                            <span>09/28</span>
+                           
+                        </li>
+                         <li>
+                       
+                       <a href="#">
+                           2015博雅分布变化忍辱
+                       </a>
+                       <span>09/28</span>
+                      
+                   </li>
+               </ul>
+           </div>
+           <div class="byjobs">
+               <h4>社会招聘岗位:</h4>
+               <ul>
+                    <li><a href="#">PHP开发工程师</a></li>
+                    <li><a href="#">C++开发工程师</a></li>
+                    <li><a href="#">LUA开发工程师</a></li>
+                    <li><a href="#">大数据开发工程师</a></li>
+                </ul>
+           </div>
+       </div>
+
+   </div>
+     
+    
+
+</body>
+</html>
