@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>DIV+CSS布局</title>
+    </head>
+    <body>
+        <!--DIV 是一个可以放东西的容器-->
+        <div style="background:gold; height:200px" >导航</div>
+        <div style="background:rgb(135, 209, 141);width:20%;height:100px;float:left">菜单</div>
+        <div style="background:aqua; width:80% ;height:100px;float:left">内容</div>
+        <!--iframe:  嵌套页面-->
+
+        百度搜索：<iframe src="http://www.baidu.com" width="20%"  >111</iframe>
+        腾讯页面：<iframe src="http://www.mi.com" width="80%" ></iframe>
+
+        
+
+
+    </body>
+</html>
