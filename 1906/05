@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>链接状态样式改变</title>
+    <link rel="stylesheet" href="11.css">
+</head>
+<body>
+    <a href="#9">这是第一个链接</a>
+    <br><br><br>
+    <a href="#5">这是第二个链接</a>
+</body>
+</html>
